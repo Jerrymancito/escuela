@@ -1,0 +1,1 @@
+create table estudiantes (id bigint not null, nombre varchar(255), score decimal(2,2), PRIMARY KEY (ID));
